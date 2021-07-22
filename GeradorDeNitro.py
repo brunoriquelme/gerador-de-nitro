@@ -1,3 +1,5 @@
+# oque você está fazendo aqui?
+# não vá kiba o script
 
 import requests
 import random
